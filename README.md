@@ -1,6 +1,6 @@
 # Week 1 Exercise Repository
 
-This repository is a comprehensive collection of exercises and projects that were completed as part of Week 1 in the [Your Course Name]. The exercises span a variety of topics, including data structures and algorithms (DSA), design patterns, and practical Java applications. Each project is designed to reinforce key concepts and provide hands-on experience in software development.
+This repository is a comprehensive collection of exercises and projects that were completed as part of Week 1 in the Weekly assignment submission of CTS. The exercises span a variety of topics, including data structures and algorithms (DSA), design patterns, and practical Java applications. Each project is designed to reinforce key concepts and provide hands-on experience in software development.
 
 ## Data Structures and Algorithms
 
