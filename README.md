@@ -1,4 +1,4 @@
-Week 2 Exercise Repository
+#*Week 2 Exercise Repository*
 Welcome to the Week 2 Exercise Repository! This collection of files is part of my coursework, where I delved into both Java-based web development and PL/SQL scripting. The repository is divided into two main sections: a Maven-based Library Management System and a series of PL/SQL scripts.
 
 Library Management System Projects
