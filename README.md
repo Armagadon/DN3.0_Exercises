@@ -52,14 +52,6 @@ If you're interested in running the Library Management System projects, you'll n
 This repository represents a significant step in my learning journey, and I hope it serves as a helpful resource for others as well. Whether you're here to explore Java web development with Spring Boot or to dive into PL/SQL scripting, I believe you'll find something valuable. If you have any questions or feedback, feel free to reach out!
 
 
-## Week 3 Exercise Repository
-
-The files in the extracted directory seem to include multiple exercises (likely Java projects), along with various supporting files, configuration files, and some logs. The directory structure is quite detailed, and it appears to be organized by week and exercise.
-
-I'll craft a README file template based on this structure. This README will provide a brief description of each exercise and some guidance on how to navigate the projects.
-
----
-
 # Week 3 Exercise Projects
 
 This repository contains multiple Java projects related to Week 3 exercises. Each exercise is located in its respective directory and focuses on different aspects of Java programming, including Spring Boot applications and other related technologies.
